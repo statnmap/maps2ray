@@ -1,0 +1,23 @@
+Package: maps2ray
+Title: Transform Maps Objects To Be Used With Rayshader
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sébastien",
+           family = "Rochette",
+           role = c("aut", "cre"),
+           email = "sebastienrochettefr@gmail.com",
+           comment = c(ORCID = "0000-0002-1565-9313"))
+Description: Transform spatial objects from {sf} and {raster} to
+    be used in {rayshader} 3D outputs.
+License: MIT + file LICENSE
+Imports: 
+    dplyr,
+    magrittr,
+    rayshader,
+    rgl,
+    sf,
+    tidyr
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1

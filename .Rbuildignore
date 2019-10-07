@@ -1,0 +1,6 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^devstuff_history\.R$
+^LICENSE\.md$
+^README\.Rmd$
+^img$
